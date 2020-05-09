@@ -1,16 +1,13 @@
 # blogspaceapp
 
-A new Flutter application.
+A Flutter Blog Application.
 
-## Getting Started
+## DESCRIPTION
 
-This project is a starting point for a Flutter application.
+A Flutter Blog Application that allows user to upload photos and add authur name and description.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## ScreenShots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2020-05-09 at 9 47 09 AM](https://user-images.githubusercontent.com/45023388/81464234-61a19200-91dd-11ea-87ec-002772c60b40.jpeg)
+![WhatsApp Image 2020-05-09 at 9 47 09 AM (1)](https://user-images.githubusercontent.com/45023388/81464235-636b5580-91dd-11ea-909e-9840778f6f02.jpeg)
