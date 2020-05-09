@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "826937646435",
+    "firebase_url": "https://blogspace-1a20e.firebaseio.com",
+    "project_id": "blogspace-1a20e",
+    "storage_bucket": "blogspace-1a20e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826937646435:android:fc8c5095a7427c6a270756",
+        "android_client_info": {
+          "package_name": "com.ashok.blogspaceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826937646435-ic6mfgls8ck2u5lcq6eishtkbo1rm35r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUUr1Pbz4PQkg0wx5vC8tCB-zfBTn-Oso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826937646435-ic6mfgls8ck2u5lcq6eishtkbo1rm35r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
